@@ -1,0 +1,18 @@
+{
+  "records" : [
+    {
+    "org_name" : "ibus-branching2",
+    "topic" : "bom",
+    "github_credentials" : "",
+    "includes" : "master",
+    "excludes" : ""
+    },
+    {
+    "org_name" : "ibus-branching2",
+    "topic" : "no-sonar",
+    "github_credentials" : "",
+    "includes" : "aa",
+    "excludes" : ""
+    }
+  ]
+}
